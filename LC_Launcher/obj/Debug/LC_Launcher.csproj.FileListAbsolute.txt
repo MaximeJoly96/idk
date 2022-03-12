@@ -1,0 +1,17 @@
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\bin\Debug\LC_Launcher.exe.config
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\bin\Debug\LC_Launcher.exe
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\bin\Debug\LC_Launcher.pdb
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\LC_Launcher.csproj.AssemblyReference.cache
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\App.g.cs
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\LC_Launcher_MarkupCompile.cache
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\LC_Launcher_MarkupCompile.lref
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\MainWindow.baml
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\LC_Launcher.g.resources
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\LC_Launcher.Properties.Resources.resources
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\LC_Launcher.csproj.GenerateResource.cache
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\LC_Launcher.csproj.CoreCompileInputs.cache
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\LC_Launcher.exe
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\LC_Launcher.pdb
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\bin\Debug\CommonServiceLocator.dll
+C:\Users\maxad\Documents\git_projects\idk\LC_Launcher\obj\Debug\LC_Launcher.csproj.CopyComplete
